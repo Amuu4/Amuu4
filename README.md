@@ -4,11 +4,11 @@
 
 <p align="Center"> <img src="https://komarev.com/ghpvc/?username=amuu4&label=Profile%20views&color=0e75b6&style=flat" alt="amuu4" /> </p>
 
-- 🌱 I’m currently learning **Python Programming**
+- 🌱 I’m Skilled in **Python Programming**
 
 - 📫 How to reach me **amrapaliborkar9@gmail.com**
 
--   💬 Ask me about **✨Python✨**
+-   💬 Ask me about **✨Python✨, ML, SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
